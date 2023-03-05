@@ -1,0 +1,938 @@
+fileFormatVersion: 2
+guid: a31a86431a6dafa41a54ec34b810bc48
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8678697987898080005
+    second: Terrain Niveau 1_0
+  - first:
+      213: -4871945102805435601
+    second: Terrain Niveau 1_1
+  - first:
+      213: 3411967901749278097
+    second: Terrain Niveau 1_2
+  - first:
+      213: 4645480059509030248
+    second: Terrain Niveau 1_3
+  - first:
+      213: -5361971165029284399
+    second: Terrain Niveau 1_4
+  - first:
+      213: 102087700824567350
+    second: Terrain Niveau 1_5
+  - first:
+      213: 9100412353567355796
+    second: Terrain Niveau 1_6
+  - first:
+      213: -8919441209782636437
+    second: Terrain Niveau 1_7
+  - first:
+      213: 123025718781502205
+    second: Terrain Niveau 1_8
+  - first:
+      213: -1741340935247165933
+    second: Terrain Niveau 1_9
+  - first:
+      213: -2483381064933941869
+    second: Terrain Niveau 1_10
+  - first:
+      213: 1082810692774086940
+    second: Terrain Niveau 1_11
+  - first:
+      213: 6628555147475051879
+    second: Terrain Niveau 1_12
+  - first:
+      213: -4608120199674800743
+    second: Terrain Niveau 1_13
+  - first:
+      213: 2687540783455814626
+    second: Terrain Niveau 1_14
+  - first:
+      213: -1232422577862682628
+    second: Terrain Niveau 1_15
+  - first:
+      213: -3624435238266895675
+    second: Terrain Niveau 1_16
+  - first:
+      213: 273383499282241905
+    second: Terrain Niveau 1_17
+  - first:
+      213: 3674238221137205028
+    second: Terrain Niveau 1_18
+  - first:
+      213: 4524685811100915739
+    second: Terrain Niveau 1_19
+  - first:
+      213: -4819785166077281574
+    second: Terrain Niveau 1_20
+  - first:
+      213: 66899221429896087
+    second: Terrain Niveau 1_21
+  - first:
+      213: 4949999844592066054
+    second: Terrain Niveau 1_22
+  - first:
+      213: 6776026059711465232
+    second: Terrain Niveau 1_23
+  - first:
+      213: -7179741760283047262
+    second: Terrain Niveau 1_24
+  - first:
+      213: -3106673085621681139
+    second: Terrain Niveau 1_25
+  - first:
+      213: -1882069097545648569
+    second: Terrain Niveau 1_26
+  - first:
+      213: 7458275562928445682
+    second: Terrain Niveau 1_27
+  - first:
+      213: -1039758396210228162
+    second: Terrain Niveau 1_28
+  - first:
+      213: 102243912549388071
+    second: Terrain Niveau 1_29
+  - first:
+      213: -2587940972461557484
+    second: Terrain Niveau 1_30
+  - first:
+      213: -2599195260818768921
+    second: Terrain Niveau 1_31
+  - first:
+      213: -3011967110405010666
+    second: Terrain Niveau 1_32
+  - first:
+      213: -4142365948228978643
+    second: Terrain Niveau 1_33
+  - first:
+      213: 6911293513890675103
+    second: Terrain Niveau 1_34
+  - first:
+      213: -9200509153467096531
+    second: Terrain Niveau 1_35
+  - first:
+      213: 6671057416479714316
+    second: Terrain Niveau 1_36
+  - first:
+      213: -8602234784227691572
+    second: Terrain Niveau 1_37
+  - first:
+      213: 3761876910302081418
+    second: Terrain Niveau 1_38
+  - first:
+      213: 5888965572753071895
+    second: Terrain Niveau 1_39
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Terrain Niveau 1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 726
+        width: 128
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50bff8996dde07870800000000000000
+      internalID: 8678697987898080005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain Niveau 1_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 726
+        width: 128
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2bf31eddbf536cb0800000000000000
+      internalID: -4871945102805435601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain Niveau 1_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 726
+        width: 128
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 195fcc0babeb95f20800000000000000
+      internalID: 3411967901749278097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain Niveau 1_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 726
+        width: 128
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86d3236508f087040800000000000000
+      internalID: 4645480059509030248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain Niveau 1_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 726
+        width: 128
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d5ca8462a37695b0800000000000000
+      internalID: -5361971165029284399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain Niveau 1_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 726
+        width: 128
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63ea5971930ba6100800000000000000
+      internalID: 102087700824567350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain Niveau 1_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 726
+        width: 128
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49375fbc1d82b4e70800000000000000
+      internalID: 9100412353567355796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain Niveau 1_7
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 726
+        width: 128
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b60fce71a77c73480800000000000000
+      internalID: -8919441209782636437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain Niveau 1_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 545
+        width: 128
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df2653a4d3315b100800000000000000
+      internalID: 123025718781502205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain Niveau 1_9
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 545
+        width: 128
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3160fb935a385d7e0800000000000000
+      internalID: -1741340935247165933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain Niveau 1_10
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 545
+        width: 128
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39d5ea63412498dd0800000000000000
+      internalID: -2483381064933941869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain Niveau 1_11
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 545
+        width: 128
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c194bcd869ae60f00800000000000000
+      internalID: 1082810692774086940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain Niveau 1_12
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 545
+        width: 128
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 765665b79cb5dfb50800000000000000
+      internalID: 6628555147475051879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain Niveau 1_13
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 545
+        width: 128
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 995d410e71bac00c0800000000000000
+      internalID: -4608120199674800743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain Niveau 1_14
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 545
+        width: 128
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e342457a101c4520800000000000000
+      internalID: 2687540783455814626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain Niveau 1_15
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 545
+        width: 128
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf7d251f13e85eee0800000000000000
+      internalID: -1232422577862682628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain Niveau 1_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 364
+        width: 128
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c281b79a5b63bdc0800000000000000
+      internalID: -3624435238266895675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain Niveau 1_17
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 364
+        width: 128
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 179db2a18d04bc300800000000000000
+      internalID: 273383499282241905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain Niveau 1_18
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 364
+        width: 128
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 427db07f1348df230800000000000000
+      internalID: 3674238221137205028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain Niveau 1_19
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 364
+        width: 128
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b189beab5c9eace30800000000000000
+      internalID: 4524685811100915739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain Niveau 1_20
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 364
+        width: 128
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ada34428deeac1db0800000000000000
+      internalID: -4819785166077281574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain Niveau 1_21
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 364
+        width: 128
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7934419cc7cade000800000000000000
+      internalID: 66899221429896087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain Niveau 1_22
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 364
+        width: 128
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60e1627e1aee1b440800000000000000
+      internalID: 4949999844592066054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain Niveau 1_23
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 364
+        width: 128
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01744e5ecc7490e50800000000000000
+      internalID: 6776026059711465232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain Niveau 1_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 183
+        width: 128
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aa8a4fa8ee6c5c90800000000000000
+      internalID: -7179741760283047262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain Niveau 1_25
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 183
+        width: 128
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d04c04ad941e2e4d0800000000000000
+      internalID: -3106673085621681139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain Niveau 1_26
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 183
+        width: 128
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7463d0e902c81e5e0800000000000000
+      internalID: -1882069097545648569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain Niveau 1_27
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 183
+        width: 128
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f8935ddb1e118760800000000000000
+      internalID: 7458275562928445682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain Niveau 1_28
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 183
+        width: 128
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e34d8ad5f390291f0800000000000000
+      internalID: -1039758396210228162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain Niveau 1_29
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 183
+        width: 128
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72fc3f7fb4e3b6100800000000000000
+      internalID: 102243912549388071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain Niveau 1_30
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 183
+        width: 128
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 419ffb4a569c51cd0800000000000000
+      internalID: -2587940972461557484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain Niveau 1_31
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 183
+        width: 128
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ebb4017eadcdebd0800000000000000
+      internalID: -2599195260818768921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain Niveau 1_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 128
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61b46250fd75336d0800000000000000
+      internalID: -3011967110405010666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain Niveau 1_33
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 2
+        width: 128
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2833260e1c5386c0800000000000000
+      internalID: -4142365948228978643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
