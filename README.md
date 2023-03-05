@@ -13,3 +13,9 @@ Overall, we were able to create a fun and interactive game that we're all proud 
 Simply download it on : https://emonsb.wixsite.com/code002 \
 
 All the specifics are on the website.
+
+## Code.002 Team :
+ * [Enes Ekici](https://github.com/TRKirua)
+ * [Emon Barberis](https://github.com/EmonBar)
+ * [Samy Abou-al-Tout](https://github.com/Locovamos)
+ * [Matéo Diallo](https://github.com/Matflashhdw)
