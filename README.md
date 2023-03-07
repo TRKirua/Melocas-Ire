@@ -9,7 +9,7 @@ Overall, we were able to create a fun and interactive game that we're all proud 
 
 ## Installation
 
-Simply download it on: https://emonsb.wixsite.com/code002 \
+Simply download it on: https://emonsb.wixsite.com/code002
 
 All the specifics are on the website.
 
