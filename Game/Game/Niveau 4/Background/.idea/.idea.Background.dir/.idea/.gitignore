@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/projectSettingsUpdater.xml
+/modules.xml
+/contentModel.xml
+/.idea.Background.iml
+# Datasource local storage ignored files
+/../../../../../../../../../../../../../../:\Users\emon\epita\Code.002\Game\Assets\Niveau 4\Level 4\Assets\Background\.idea\.idea.Background.dir\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
